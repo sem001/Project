@@ -9,3 +9,4 @@ WARNING DESCRIPTION
 </div>
 
 <font color="Red">テキスト</font>  
+<span style="color: red; ">赤文字</span>  
