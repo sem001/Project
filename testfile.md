@@ -1,9 +1,11 @@
 <div class="panel panel-warning">  
-**Warning**
+**Warning**  
 {: .panel-heading}  
-<div class="panel-body">
+<div class="panel-body">  
 
 WARNING DESCRIPTION  
 
 </div>
 </div>
+
+<font color="Red">テキスト</font>  
