@@ -1,9 +1,9 @@
 <div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
+**Warning**  
+{: .panel-heading}  
 <div class="panel-body">
 
-WARNING DESCRIPTION
+WARNING DESCRIPTION  
 
 </div>
 </div>
